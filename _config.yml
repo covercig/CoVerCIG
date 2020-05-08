@@ -1,2 +1,6 @@
-theme: jekyll-theme-tactile
-title: [CoVerCIG - Cooperative Verification via Collective Invariant Generation]
+
+title: CoVerCIG 
+logo: covercig.png
+description: Cooperative Verification via Collective Invariant Generation
+show_downloads: false
+theme: jekyll-theme-minimal
